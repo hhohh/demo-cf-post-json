@@ -6,7 +6,7 @@ export default {
 		 * @param {string} url the URL to send the request to
 		 * @param {BodyInit} body the JSON data to send in the request
 		 */
-		const someHost = "https://examples.cloudflareworkers.com/demos";
+		const someHost = "https://abc.jinzhao.ip-ddns.com";
 		const url = someHost + "/requests/json";
 		const body = {
 			results: ["default data to send"],
